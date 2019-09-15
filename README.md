@@ -6,7 +6,7 @@ The Peter Moss Aml/All AI Student Program​ provides college & university stude
 
 The Student Program is headed by Peter Moss Aml/All AI Research Project​ team members [Ho Leung Ng](https://github.com/holeung "Ho  Leung Ng")​ - Dept. Biochemistry & Molecular Biophysics @ Kansas State University, and [Amita Kapoor](https://github.com/amita-kapoor "Amita Kapoor")​ - Associate Professor @ Delhi University.
 
-In addition to working with your tutors, you will be able to communicate through the group with fellow team members [Adam Milton-Barker](https://github.com/AdamMiltonBarker "Adam Milton-Barker"), Estela Sóc-de Ribes​, Salvatore Raieli​ & Rishabh Banga​.
+In addition to working with your tutors, you will be able to communicate through the group with fellow team members [Adam Milton-Barker](https://github.com/orgs/AMLResearchProject/people/AdamMiltonBarker "Adam Milton-Barker"), [Estela Cabezas](https://github.com/orgs/AMLResearchProject/people/EstelaCaEs "Estela Cabezas")​, [Salvatore Raieli​](https://github.com/orgs/AMLResearchProject/people/SalvatoreRa "Salvatore Raieli​") & [Rishabh Banga](https://github.com/orgs/AMLResearchProject/people/rishabhbanga "Rishabh Banga")​.
 
 If you would like to join the Student Developer Program please answer the questions on the [Private AML/ALL AI Student Program Chat Group​](https://www.facebook.com/groups/AmlAllPrivateStudentAiProgram "Private AML/ALL AI Student Program Chat Group​").
 
@@ -40,6 +40,6 @@ We use SemVer for versioning. For the versions available, see [Releases](https:/
 
 This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/AMLResearchProject/AML-ALL-AI-Student-Program/blob/master/LICENSE "LICENSE") file for details.
 
-# Bugs/Issues
+# Bugs Issues
 
-We use the [repo issues](https://github.com/AMLResearchProject/AML-ALL-AI-Student-Program/issues "repo issues") to track bugs and general requests related to using this project.
+We use the [repo bug issues](https://github.com/AMLResearchProject/AML-ALL-AI-Student-Program/issues/new/choose "repo bug issues") to track bugs and general requests related to using this project.
