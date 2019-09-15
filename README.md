@@ -24,9 +24,9 @@ The purpose of the project is to share public information related to AML/ALL, as
 
 # Related Links
 
-- [AML/ALL AI Students](https://www.amlresearchproject.com/#students "AML/ALL AI Students")
-- [AML/ALL AI Students on Facebook](https://www.facebook.com/PeterMossAmlAllAiStudentProject "AML/ALL AI Students on Facebook")
-- [AML/ALL AI Students Private Group on Facebook](https://www.facebook.com/groups/AmlAllPrivateStudentAiProgram "AML/ALL AI Students Private Group on Facebook")
+- [AML/ALL AI Students Program Info](https://www.amlresearchproject.com/#students "AML/ALL AI Students Program Info")
+- [AML/ALL AI Students Program on Facebook](https://www.facebook.com/PeterMossAmlAllAiStudentProject "AML/ALL AI Students Program on Facebook")
+- [AML/ALL AI Students Program Private Group on Facebook](https://www.facebook.com/groups/AmlAllPrivateStudentAiProgram "AML/ALL AI Students Program Private Group on Facebook")
 
 # Contributing
 
